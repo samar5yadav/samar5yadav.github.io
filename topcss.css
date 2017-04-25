@@ -1,0 +1,23 @@
+body{
+    background-image:url('black.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1,h3{
+	color: #72AB00;
+	padding: 0px;
+	margin: 0px;
+	display: inline;
+}
+h4{
+	text-align: right;
+}
+a{
+	text-decoration: overline;
+	color: #72AB00;
+}
+a:hover{
+	text-decoration: none;
+	color: 	#72AB00;
+}
